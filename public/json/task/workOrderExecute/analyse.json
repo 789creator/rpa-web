@@ -1,0 +1,9 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+      "efficiency": 15,
+      "successRatio": "66%",
+      "exeTime": 4
+  }
+}

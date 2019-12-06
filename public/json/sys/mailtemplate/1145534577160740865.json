@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+      "id": "1067246875800000076",
+      "name": "工单处理回单模板",
+      "subject": "工单处理回单",
+      "content": "您好：<br/><#list data as template>工单处理第${template.executeLink}环节成功了${template.successTotal}条，失败了${template.failTotal}条<br/></#list><br/>详情见附件!<br/>谢谢！\r\n",
+      "createDate": null
+  }
+}

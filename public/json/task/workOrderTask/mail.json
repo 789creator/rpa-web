@@ -1,0 +1,18 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": [
+      {
+          "mailAccount": "13631242552@139.com",
+          "successTotal": 0,
+          "failTotal": 10,
+          "executeLink": 1
+      },
+      {
+          "mailAccount": "13631242552@139.com",
+          "successTotal": 10,
+          "failTotal": 0,
+          "executeLink": 2
+      }
+  ]
+}

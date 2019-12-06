@@ -1,0 +1,44 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+      "weekData": [
+          {
+              "workOrderNumByDay": 0,
+              "weekDay": null,
+              "fileReceiveDate": "2019-07-10"
+          },
+          {
+              "workOrderNumByDay": 0,
+              "weekDay": null,
+              "fileReceiveDate": "2019-07-11"
+          },
+          {
+              "workOrderNumByDay": 0,
+              "weekDay": null,
+              "fileReceiveDate": "2019-07-12"
+          },
+          {
+              "workOrderNumByDay": 0,
+              "weekDay": null,
+              "fileReceiveDate": "2019-07-13"
+          },
+          {
+              "workOrderNumByDay": 0,
+              "weekDay": null,
+              "fileReceiveDate": "2019-07-14"
+          },
+          {
+              "workOrderNumByDay": 0,
+              "weekDay": null,
+              "fileReceiveDate": "2019-07-15"
+          },
+          {
+              "workOrderNumByDay": 30,
+              "weekDay": null,
+              "fileReceiveDate": "2019-07-16"
+          }
+      ],
+      "avgData": 4
+  }
+}

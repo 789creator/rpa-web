@@ -1,0 +1,1 @@
+{ "code": 0, "msg": "success", "data": { "scriptContent": "import sys\r\nprint(\"你好，我是测试文件\")", "scriptInfo": { "id": "1", "creator": null, "createDate": "2019-06-26 16:37:12", "scriptTypeId": "1", "scriptName": "ZhiZuo01-01.py", "scriptPath": "/scripts/python/test.py", "scriptLanguageType": "python", "scriptDesc": "方案类型为01故障处理，执行环节现场方案制作01...", "updater": null } } }
